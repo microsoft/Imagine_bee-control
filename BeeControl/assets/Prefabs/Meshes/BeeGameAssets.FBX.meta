@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 74e898d7b0ba9304787a4ec45df49310
+timeCreated: 1434415512
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HoneyComb01
+    100004: HoneyComb02
+    100006: HoneyComb03
+    100008: HoneyComb04
+    100010: HoneyComb05
+    100012: HoneyComb06
+    100014: Leaf01
+    100016: Bee
+    100018: bWingLeft
+    100020: bWingRight
+    100022: Object002
+    100024: Object003
+    100026: Object004
+    100028: Object005
+    100030: Box001
+    100032: HCombClosed
+    100034: HCombOpen
+    100036: HCombRing
+    100038: Wing
+    100040: Plane001
+    400000: //RootNode
+    400002: HoneyComb01
+    400004: HoneyComb02
+    400006: HoneyComb03
+    400008: HoneyComb04
+    400010: HoneyComb05
+    400012: HoneyComb06
+    400014: Leaf01
+    400016: Bee
+    400018: bWingLeft
+    400020: bWingRight
+    400022: Object002
+    400024: Object003
+    400026: Object004
+    400028: Object005
+    400030: Box001
+    400032: HCombClosed
+    400034: HCombOpen
+    400036: HCombRing
+    400038: Wing
+    400040: Plane001
+    2300000: HoneyComb01
+    2300002: HoneyComb02
+    2300004: HoneyComb03
+    2300006: HoneyComb04
+    2300008: HoneyComb05
+    2300010: HoneyComb06
+    2300012: Leaf01
+    2300014: Bee
+    2300016: bWingLeft
+    2300018: bWingRight
+    2300020: Box001
+    2300022: HCombClosed
+    2300024: HCombOpen
+    2300026: HCombRing
+    2300028: Wing
+    2300030: Plane001
+    3300000: HoneyComb01
+    3300002: HoneyComb02
+    3300004: HoneyComb03
+    3300006: HoneyComb04
+    3300008: HoneyComb05
+    3300010: HoneyComb06
+    3300012: Leaf01
+    3300014: Bee
+    3300016: bWingLeft
+    3300018: bWingRight
+    3300020: Box001
+    3300022: HCombClosed
+    3300024: HCombOpen
+    3300026: HCombRing
+    3300028: Wing
+    3300030: Plane001
+    4300000: Leaf01
+    4300002: HoneyComb06
+    4300004: HoneyComb03
+    4300006: HoneyComb05
+    4300008: HoneyComb04
+    4300010: HoneyComb01
+    4300012: HoneyComb02
+    4300014: Bee
+    4300016: bWingLeft
+    4300018: bWingRight
+    4300020: Wing
+    4300022: HCombRing
+    4300024: Box001
+    4300026: HCombOpen
+    4300028: HCombClosed
+    4300030: Plane001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
